@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @albanieto
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Bioinformatics applied to the study of evolution and anthropology
+- 🌱 I’m currently learning Bioinformatics and Genetics
+- 💞️ I’m looking to collaborate on, honeslty? Whatever I can learn from
 - 📫 How to reach me albanieto.heredia@gmail.com
 
 <!---
